@@ -15,6 +15,9 @@
       }
     },
     "android": {
+      "permissions": [
+        "INTERNET"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/ushuru.jpg",
         "backgroundColor": "#800000"
